@@ -1,6 +1,8 @@
 /* add your CSS here */
 h3 {
-    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 30px;
+	color: #000000;
 }
 p {
     color: #000000;
@@ -12,12 +14,6 @@ p {
 
 span {
 	font-weight: bold;
-}
-
-box {
-	width: 300px;
-  padding: 0px;
-  border: 1px solid grey;
 }
 
 .interesting {
@@ -34,7 +30,7 @@ box {
 }
 
 .text {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	padding-top: 10px;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -46,11 +42,12 @@ box {
 	width: 300px;
 	padding: 0px;
 	border: 1px solid black;
+	margin-top: 10px;
 	
 }
 
 .container {
-	 width: 320px;
+	 width: 300px;
 	 border: 1px solid grey;
 	 padding: 0px 10px 10px 9px;
 	 box-shadow: 5px 5px 20px #ccc;
